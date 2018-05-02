@@ -1,5 +1,5 @@
 # ProjectEuler
-Project Euler solutions in C#. I have solved the first 50 consecutive problems in addition to some of the later ones, but not all solutions exist in this repository. Some have been written earlier in Haskell, Scheme or JavaScript and are to be included in this repository eventually.
+[Project Euler](https://projecteuler.net/) solutions in C#. I have solved the first 50 consecutive problems in addition to some of the later ones, but not all solutions exist in this repository. Some have been written earlier in Haskell, Scheme or JavaScript and are to be included in this repository eventually.
 
 ![Project Euler user profile](https://projecteuler.net/profile/lopossumi.png)
 
